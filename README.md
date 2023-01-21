@@ -15,6 +15,7 @@
 3. Adding media query to make mobile responsive FrontEnd  
 4. Using nth-child Property to handle siblings withing a DIV  
 5. Efficient way to use Box Shadow  
-6. Flexbox
+6. Flexbox  
+7. Animation
 
 [Check out final webpage](https://itsazibfarooq.github.io/vanilla-JS-Ecommmerce-Webpage/)  
