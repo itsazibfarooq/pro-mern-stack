@@ -1,6 +1,6 @@
-# Static Ecommerce Web Page Using Vanilla JS, HTML and CSS  
+### Static Ecommerce Web Page Using Vanilla JS, HTML and CSS  
 
-### Major Concepts Learned in building this webpage  
+#### Major Concepts Learned in building this webpage  
 * JavaScript  
 1. DOM Manipulation  
 2. Event Handling
